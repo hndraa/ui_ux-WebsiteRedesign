@@ -198,7 +198,7 @@ This is a **design-only project**. No source code installation, package dependen
 ### Repository Structure
 
 ```text
-brida-mataram-website-redesign/
+ui_ux-WebsiteRedesign/
 ├── README.md
 └── Dokumentation.pdf
 ```
@@ -206,6 +206,8 @@ brida-mataram-website-redesign/
 ### Access the Design
 
 **Figma Prototype:** [PROTOTYPE PC/LAPTOP/DESKTOP WEBSITE BRIDA KOTA MATARAM](https://www.figma.com/proto/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=226-6299&p=f&t=fiVz4krPaQ9Te7xq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=226%3A6299&show-proto-sidebar=1)
+
+
 **Figma Prototype:** [PROTOTYPE MOBILE WEBSITE BRIDA KOTA MATARAM](https://www.figma.com/proto/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=183-1577&p=f&t=RdUqwsILqK9R65sc-1&scaling=scale-down&content-scaling=fixed&page-id=183%3A1361&starting-point-node-id=183%3A1577&show-proto-sidebar=1)
 
 **Figma Design File:** [BRIDA KOTA MATARAM](https://www.figma.com/design/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=0-1&t=yfSVpXdW1edbt6Pp-1)
