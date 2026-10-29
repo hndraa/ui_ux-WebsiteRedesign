@@ -130,29 +130,42 @@ The final design exploration covers six website pages in desktop and mobile layo
 
 **Profile**
 
-![BRIDA Profile Page](screenshots/profile.png)
+<img width="98" height="892" alt="image" src="https://github.com/user-attachments/assets/ffe475ad-5dd0-4e5c-a12b-b9d739810d02" />
+<img width="219" height="892" alt="image" src="https://github.com/user-attachments/assets/95ba1585-3941-48be-a37f-50edccee3e95" />
+
+
 
 **Services**
 
-![BRIDA Services Page](screenshots/services.png)
+<img width="209" height="703" alt="image" src="https://github.com/user-attachments/assets/89b92ba9-c300-4be0-b22f-25cc640ddec8" />
+<img width="347" height="697" alt="image" src="https://github.com/user-attachments/assets/8e6630ae-d473-4fef-9215-bde87cb7ab78" />
+
 
 **Information**
 
-![BRIDA Information Page](screenshots/information.png)
+<img width="119" height="999" alt="image" src="https://github.com/user-attachments/assets/74c03934-5c37-4b55-9f52-4c16f15c380b" />
+<img width="316" height="999" alt="image" src="https://github.com/user-attachments/assets/2787a2ae-62ac-473c-a46f-d84b56e0269a" />
+
+
 
 **Activities**
 
-![BRIDA Activities Page](screenshots/activities.png)
+<img width="73" height="925" alt="image" src="https://github.com/user-attachments/assets/fbd6c92e-b93f-4ba8-ada9-983733af54f6" />
+<img width="166" height="925" alt="image" src="https://github.com/user-attachments/assets/a8ddc7c0-d9dc-489c-9694-c1c2bb4857f8" />
+
 
 **Complaints**
 
-![BRIDA Complaints Page](screenshots/complaints.png)
+<img width="218" height="750" alt="image" src="https://github.com/user-attachments/assets/e0e6bf23-2764-4787-86eb-8543a1ba232d" />
+<img width="364" height="745" alt="image" src="https://github.com/user-attachments/assets/bb33e3cd-8527-44a5-a10d-9b0a77206273" />
+
 
 ### 3.5 Usability Testing
 
 Usability testing was conducted using Maze. Participants completed assigned tasks using the prototype, followed by the SUS questionnaire.
 
-![BRIDA Usability Testing Results](screenshots/usability-testing.png)
+<img width="827" height="136" alt="image" src="https://github.com/user-attachments/assets/5e1b0c57-12db-47e3-bdff-1ccfa52e9678" />
+
 
 ### Insights
 
@@ -187,28 +200,15 @@ This is a **design-only project**. No source code installation, package dependen
 ```text
 brida-mataram-website-redesign/
 ├── README.md
-└── screenshots/
-    ├── sitemap.png
-    ├── design-system.png
-    ├── low-fidelity-wireframes.png
-    ├── home.png
-    ├── profile.png
-    ├── services.png
-    ├── information.png
-    ├── activities.png
-    ├── complaints.png
-    └── usability-testing.png
+└── Dokumentation.pdf
 ```
-
-The `screenshots/` directory contains visual documentation exported from the design file and evaluation materials. Only include files that are actually available.
 
 ### Access the Design
 
-**Figma Prototype:** [PROTOTYPE WEBSITE BRIDA KOTA MATARAM](https://www.figma.com/proto/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=226-6299&p=f&t=fiVz4krPaQ9Te7xq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=226%3A6299&show-proto-sidebar=1)
+**Figma Prototype:** [PROTOTYPE PC/LAPTOP/DESKTOP WEBSITE BRIDA KOTA MATARAM](https://www.figma.com/proto/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=226-6299&p=f&t=fiVz4krPaQ9Te7xq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=226%3A6299&show-proto-sidebar=1)
+**Figma Prototype:** [PROTOTYPE MOBILE WEBSITE BRIDA KOTA MATARAM](https://www.figma.com/proto/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=183-1577&p=f&t=RdUqwsILqK9R65sc-1&scaling=scale-down&content-scaling=fixed&page-id=183%3A1361&starting-point-node-id=183%3A1577&show-proto-sidebar=1)
 
 **Figma Design File:** [BRIDA KOTA MATARAM](https://www.figma.com/design/tBJrmoyDkswq0h5cx0HtBV/BRIDA-KOTA-MATARAM?node-id=0-1&t=yfSVpXdW1edbt6Pp-1)
-
-Replace the placeholder links with your actual Figma URLs and ensure the sharing permissions allow portfolio reviewers to access the design.
 
 ### How to Review
 
